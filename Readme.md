@@ -1,1 +1,1 @@
-![task](./images/test.png"Title")
+![task](./images/test.png)
